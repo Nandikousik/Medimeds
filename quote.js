@@ -22,7 +22,7 @@ const tweetMe = () => {
 	window.open(tweetPost);
 };
 const fbpost = () => {
-	let facepost = "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnandikousik.github.io%2FMediheal&amp;src=sdkpreparse";
+	let facepost = "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnandikousik.github.io%2FMedimeds&amp;src=sdkpreparse";
 	window.open(facepost);
 };
 const washare = () => {
